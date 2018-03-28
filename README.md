@@ -1,7 +1,6 @@
 # MyBatis
 SpringBoot+Mybatis项目整合  
-W
-插入  
+插入数据  
 http://localhost:12080/insert  
  
  
